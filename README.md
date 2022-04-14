@@ -13,6 +13,8 @@ In this course we will learn and Practice the various different topics and conce
 
 This course is divided in to **7 Weeks** in each week we will learn about new topics
 
+all requirements for your python journey is [here](./week-0-basics/requirements.md)
+
 <br><br>
 
 <h1 align="center"> Index Page </h1>
