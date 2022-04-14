@@ -32,11 +32,11 @@
 
         `pip 22.0.4` you are good to go
 
+---
+
 ## 👏🏻 Congrats Python installation was successful
 
 <br>
-
----
 
 **Step 2** - Install a Text Editor or an IDE, I like to use VScode so I'm going to install it, go to the downloads page or click **[here](https://code.visualstudio.com/Download)**
 
@@ -50,11 +50,11 @@
 
     -   open VSCode
 
+---
+
 ## 👏🏻 Congrats VSCode installation was successful
 
 <br>
-
----
 
 **VSCode Extensions** :-
 
