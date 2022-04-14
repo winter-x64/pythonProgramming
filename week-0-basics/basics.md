@@ -122,7 +122,7 @@ like:-
 
 ## 📦 what are variables ?
 
-> click [here](../week-0-Basics/variables.py) or open the variables.c file from week-0-Basics to see the reference code
+> click [here](../week-0-basics/variables.py) or open the variables.c file from week-0-Basics to see the reference code
 
 Python is not “statically typed”. We do not need to declare variables before using them or declare their type. A variable is created the moment we first assign a value to it. A variable is a name given to a memory location. It is the basic unit of storage in a program.
 

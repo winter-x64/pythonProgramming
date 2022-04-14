@@ -13,7 +13,7 @@
 
 `print()` is a function the prints stuff on the screen
 
-like in the [helloWorld](../week-0-Basics/helloWorld.py) program, we printed hello world on the terminal
+like in the [helloWorld](../week-0-basics/helloWorld.py) program, we printed hello world on the terminal
 
 ```python
 syntex:-
