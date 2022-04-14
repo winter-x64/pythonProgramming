@@ -4,6 +4,10 @@
 <h3 align="center">🎓 Course | 📝 Notes | 🔰 Beginner</h3>
 <br><br>
 
+## 🐍 Python installation
+
+<br>
+
 **Step 1** − We have to install python on your system, For that vist python.org or click [here](https://www.python.org/downloads/)
 
 -   Choose the python version you want to install ( lastest version recommended)
@@ -32,9 +36,13 @@
 
         `pip 22.0.4` you are good to go
 
+> 👏🏻 Congrats Python installation was successful
+
+<br>
+
 ---
 
-## 👏🏻 Congrats Python installation was successful
+## VSCode installation
 
 <br>
 
@@ -50,9 +58,9 @@
 
     -   open VSCode
 
----
+> 👏🏻 Congrats VSCode installation was successful
 
-## 👏🏻 Congrats VSCode installation was successful
+---
 
 <br>
 
