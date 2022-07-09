@@ -31,7 +31,7 @@ eg :- `main.py`, `basics.py`
 
 ---
 
-## what is a modules?
+## what is a module?
 
 A Python module is a file containing Python definitions and statements. A module can define functions, classes, and variables.
 
@@ -49,7 +49,7 @@ modules is a collection of predefined functions, Classes.
 
 😮😮😮
 
-in different language its know by different name like library, header file, etc. (so don't be confused)
+in different languages its know by different name like library, header file, etc. (so don't be confused)
 
 examples :-
 
@@ -73,7 +73,7 @@ You can choose to import only parts from a module, by using the _`from`_ keyword
 
 ```py
 syntex:-
-    from module import function
+    from <module> import <function>
 
 example:-
     from math import sqrt

@@ -4,9 +4,7 @@
 '''
 
 
-
 print("Hello world")
-
 
 '''
     I know!! I know!!
