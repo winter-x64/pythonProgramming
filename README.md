@@ -85,3 +85,5 @@ _All the notes are available in [all-Note](./all-Note/) folder_
 | week 4 |     [Notes.md](./week-4-function/)     |
 | week 5 |    [Notes.md](./week-5-structure/)     |
 | week 6 |       [Notes.md](./week-6-OOP/)        |
+
+<img src="https://th.bing.com/th/id/R.6ad0b4d695201e8dadd5fe059a0afe63?rik=SStSfe0t9rsvsA&riu=http%3a%2f%2fonlinefanatic.com%2fwp-content%2fuploads%2f2016%2f04%2fJoin-Us-on-Discord-Banner.png&ehk=NST%2bVR%2btzDy7Q8%2fnoWB869SHy5UQikMVzXiWjpQZ2QM%3d&risl=&pid=ImgRaw&r=0">
