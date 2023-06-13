@@ -3,7 +3,7 @@
 
 <h1 align="center">  Basics of Python programming  </h1>
 <h3 align="center">🎓 Course | 📝 Notes | 🔰 Beginner</h3>
-
+</p>
 <br>
 <br>
 
