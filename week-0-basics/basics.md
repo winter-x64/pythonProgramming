@@ -7,7 +7,7 @@
 <br>
 <br>
 
-> ## What is python programming ?
+## What is python programming ?
 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small- and large-scale projects.
 
@@ -19,7 +19,6 @@ Python 2.0 was released in 2000 and introduced new features such as list compreh
 
 <br>
 
----
 
 ## How to create a Python file ?
 
@@ -29,7 +28,6 @@ eg :- `main.py`, `basics.py`
 
 <br>
 
----
 
 ## what is a module?
 
@@ -80,8 +78,6 @@ example:-
 ```
 
 <br>
-
----
 
 ## 🤖 what are datatype?
 
