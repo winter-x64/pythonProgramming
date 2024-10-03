@@ -29,7 +29,7 @@ example:-
 
 > click [here](../week-0-basics/inputProgram.py) or open the inputProgram.py file from week-0 to see the reference code :-
 
-'input()' is used to get the user input and stores it in a variable
+`input()` is used to get the user input and stores it in a variable
 
 ```python
 syntex:-
@@ -46,7 +46,7 @@ number = input("Enter a number => ")
 print(type(name))
 ```
 
-you will get a `<class 'str'>` as the output that means it's a string not an Integer, you can't do any math stuff to it like add, sub
+you will get a `<class 'str'>` as the output that means it's a string not an Integer because `input()` only returns str as ouput, you can't do any math stuff to it like add, sub
 
 So how will you do it?, You have to convert the str to int by using `int()` function
 
