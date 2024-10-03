@@ -52,7 +52,7 @@ So how will you do it?, You have to convert the str to int by using `int()` func
 
 ```python
 number = int(input("Enter a number => "))
-print(type(name))
+print(type(number))
 ```
 
 Now you will get the output as `<class 'int'>`
