@@ -6,69 +6,57 @@
 
 ## 🐍 Python installation
 
-<br>
-
 **Step 1** − We have to install python on your system, For that vist python.org or click [here](https://www.python.org/downloads/)
 
--   Choose the python version you want to install ( lastest version recommended)
+- Choose the python version you want to install ( lastest version recommended)
 
--   Download 'Python Executable Installer' ( choose according to your system requirements).
+- Download 'Python Executable Installer' ( choose according to your system requirements).
 
--   Run 'Executable Installer' to install it
+- Run 'Executable Installer' to install it
 
--   After the installation is successful, Verify Python is installed on Windows / Mac
+- After the installation is successful, Verify Python is installed on Windows / Mac
 
-    -   open command prompt or search for your terminal of choice.
+  - open command prompt or search for your terminal of choice.
 
-    -   run ' python --version '
+  - run ` python --version `
 
-    -   if it returns your python version, something similar to this:-
+    - if it returns your python version, something similar to this:-
 
         `Python 3.10.1` you are good to go
 
--   Verify Pip was installed
+- Verify Pip was installed
 
-    -   open command prompt or search for your terminal of choice.
+  - open command prompt or search for your terminal of choice.
 
-    -   run ' pip -V '
+  - run ` pip -V `
 
-    -   if it returns your pip version, something similar to this:-
+  - if it returns your pip version, something similar to this:-
 
         `pip 22.0.4` you are good to go
 
 > 👏🏻 Congrats Python installation was successful
 
-<br>
-
----
-
 ## VSCode installation
-
-<br>
 
 **Step 2** - Install a Text Editor or an IDE, I like to use VScode so I'm going to install it, go to the downloads page or click **[here](https://code.visualstudio.com/Download)**
 
--   Choose the Installer type you want to install (like Mac / Windows / Linux)
+- Choose the Installer type you want to install (like Mac / Windows / Linux)
 
--   Download 'VSCode Installer' ( choose according to your system requirements).
+- Download 'VSCode Installer' ( choose according to your system requirements).
 
--   Run 'Executable Installer' to install it.
+- Run 'Executable Installer' to install it.
 
--   After the installation is successful, Verify VSCode is installed on system.
+- After the installation is successful, Verify VSCode is installed on system.
 
-    -   open VSCode
+  - open VSCode
 
 > 👏🏻 Congrats VSCode installation was successful
-
----
-
-<br>
 
 **VSCode Extensions** :-
 
 click **[here](https://youtu.be/SKcZ3cwX8lA)** see a video example
 
--   open VSCode
--   open extensions Tab
--   install Python extension
--   you can install extensions pack, click [Here](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack) or Search for "donjayamanne.python-extension-pack".
+- open VSCode
+- open extensions Tab
+- install Python extension
+- you can install extensions pack, click [Here](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack) or Search for "donjayamanne.python-extension-pack".
