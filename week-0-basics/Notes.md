@@ -8,11 +8,11 @@
 
 ## How to print a output to the user
 
-> click [here](../week-0-basics/helloWorld.py) or open the helloWorld.py file from week-0 to see the reference code :-
+> click [here](../week-0-basics/code/helloWorld.py) or open the helloWorld.py file from week-0 to see the reference code :-
 
 `print()` is a function the prints stuff on the screen
 
-like in the [helloWorld](../week-0-basics/helloWorld.py) program, we printed hello world on the terminal
+like in the [helloWorld](../week-0-basics/code/helloWorld.py) program, we printed hello world on the terminal
 
 ```python
 syntex:-
@@ -27,7 +27,7 @@ example:-
 
 ## How to Get user Input
 
-> click [here](../week-0-basics/inputProgram.py) or open the inputProgram.py file from week-0 to see the reference code :-
+> click [here](../week-0-basics/code/inputProgram.py) or open the inputProgram.py file from week-0 to see the reference code :-
 
 `input()` is used to get the user input and stores it in a variable
 
@@ -56,4 +56,4 @@ print(type(number))
 ```
 
 Now you will get the output as `<class 'int'>`
-So here is an example for Arithmetic operations, [click here](/week-0-basics/MathOperations.py)
+So here is an example for Arithmetic operations, [click here](/week-0-basics/code/MathOperations.py)
