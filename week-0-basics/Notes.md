@@ -43,7 +43,7 @@ So, If you're running this code and check the datatype of the variable
 
 ```python
 number = input("Enter a number => ")
-print(type(name))
+print(type(number))
 ```
 
 you will get a `<class 'str'>` as the output that means it's a string not an Integer because `input()` only returns str as ouput, you can't do any math stuff to it like add, sub
