@@ -80,7 +80,7 @@ in this case we slice the string in to peices
 
 Okayyyyyy, String Formatting is something that we always use in coding. We manipulate the input and output
 
-> click [here](./stringFormatting.py) or open the stringFormatting.py file from week-1 to see the reference code :-
+> click [here](./code/stringFormatting.py) or open the stringFormatting.py file from week-1 to see the reference code :-
 
 String formatting is the process of infusing things in the string dynamically and presenting the string. There are four different ways to perform string formatting:-
 
