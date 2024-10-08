@@ -1,4 +1,4 @@
-## what is a string?
+# what is a string?
 
 Sting is a collection of Characters.
 
@@ -12,8 +12,6 @@ Sting is a collection of Characters.
     userName = "AdminUser"
 ```
 
-<br>
-
 > core concept
 
 ## 🔢 String Indexing
@@ -22,7 +20,6 @@ Everything in python is well organized and everything has a number attached to i
 
 we can access that element directly using that number. In this case, **String** have a index number attached, the number starts from the **0**
 
-<br>
 example :-
 
 ![alt](https://www.pythoneasy.com/static/img/tutorial/variable/string_index.png)
@@ -72,8 +69,6 @@ in this case we slice the string in to peices
     yth
 ```
 
-<br>
-
 > new Topic Time
 
 ## String Formatting
@@ -84,10 +79,10 @@ Okayyyyyy, String Formatting is something that we always use in coding. We manip
 
 String formatting is the process of infusing things in the string dynamically and presenting the string. There are four different ways to perform string formatting:-
 
--   Formatting with % Operator.
--   Formatting with format() string method.
--   Formatting with string literals, called f-strings.
--   Formatting with String Template Class
+- Formatting with % Operator.
+- Formatting with format() string method.
+- Formatting with string literals, called f-strings.
+- Formatting with String Template Class
 
 ## Formatting string using % Operator
 

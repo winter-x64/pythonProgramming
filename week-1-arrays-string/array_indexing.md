@@ -18,16 +18,18 @@
    - You can get a portion (slice) of the array using a range of indices.
    - Syntax: `my_list[start:end]` (includes `start`, excludes `end`).
    - For example:
-     ```python
+
+    ```python
      my_list = [10, 20, 30, 40, 50]
-     sub_list = my_list[1:4]  # This will give [20, 30, 40]
+    sub_list = my_list[1:4]  # This will give [20, 30, 40]
      ```
 
 > Here is an example for Array, [Click here](/week-1-arrays-string/code/arrayindexing.py)
 
-### Summary
+## Summary
+
 - **Indexing** allows you to access individual elements using their position.
 - **Negative indexing** lets you count backwards from the end.
 - **Slicing** lets you grab a part of the array.
 
-This makes working with arrays and lists very flexible and powerful!
+This makes working with arrays and lists very flexible and powerful
