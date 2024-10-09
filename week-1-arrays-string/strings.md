@@ -51,8 +51,6 @@ h
 
 ```
 
-<br>
-
 ## what is String Slicing in Python?
 
 as we all know Slicing meains to cut something in to pieces, like taking a piece of cake.
